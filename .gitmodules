@@ -1,0 +1,3 @@
+[submodule "Assets/DMZ.Legacy.LoginScreen"]
+	path = Assets/DMZ.Legacy.LoginScreen
+	url = git@github.com:DeMoZ/DMZ.Legacy.LoginScreen.git
